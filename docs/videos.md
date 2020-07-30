@@ -28,6 +28,12 @@ modify_date: "2019-05-16"
 
 ## YouTube
 
+<div>{%- include extensions/youtube.html id='sd4i2bvFqPE&list=PLH-rpi_agJT0l_tmVi3UuDxCb3T3EQ7go' -%}</div>
+
+<div>{%- include extensions/youtube.html id='cv-s-Mg2504&list=PLH-rpi_agJT39acm7OAaQdXKomNKUBkuE' -%}</div>
+
+<div>{%- include extensions/youtube.html id='djWX0MR2Ooo' -%}</div>
+
 <div>{%- include extensions/youtube.html id='ziUrLnJ_Y8A' -%}</div>
 
 <div>{%- include extensions/youtube.html id='qG_bdbpOM-Y' -%}</div>
