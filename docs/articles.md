@@ -22,13 +22,25 @@ Browse through our collection of articles and blog posts to deepen your knowledg
 
 <div>{%- include extensions/slideshare.html id='zjf39rlmmdqJEp' -%}</div>
 
+### [Build Text Categorization Model with Spark NLP](https://www.analyticsvidhya.com/blog/2020/07/build-text-categorization-model-with-spark-nlp/)
+
+Satish Silveri | **July 8, 2020**
+
+### [Running Spark NLP in Docker Container for Named Entity Recognition and Other NLP Features](https://towardsdatascience.com/running-spark-nlp-in-docker-container-for-named-entity-recognition-and-other-nlp-features-8acdb662da5b)
+
+Yuefeng Zhang | **June 6, 2020**
+
 ### [Contextual Parser in Spark NLP: Extracting Medical Entities Contextually](https://medium.com/spark-nlp/contextual-parser-in-spark-nlp-extracting-medical-entities-contextually-cdbf0e2cb693)
 
-Alina Petukhova | **July 20, 2020**
+Alina Petukhova | **May 28, 2020**
 
 ### [Setup Spark NLP on Databricks in 2 Minutes and get the taste of scalable NLP](https://medium.com/spark-nlp/spark-nlp-quickstart-tutorial-with-databricks-5df54853cf0a)
 
 Christian Kasim Loan | **May 25, 2020**
+
+### [Teaching Text Mining Online](https://medium.com/swlh/teaching-text-mining-online-dfd94926b18e)
+
+Clifford Anderson | **May 21, 2020**
 
 ### [Applying Context Aware Spell Checking in Spark NLP](https://medium.com/spark-nlp/applying-context-aware-spell-checking-in-spark-nlp-3c29c46963bc)
 
